@@ -14,25 +14,28 @@ Russia claims that it has found a home for all of its crude barrels in Africa, I
 
 ![image](https://user-images.githubusercontent.com/66137235/233895205-091eb544-ecb1-48c5-abaa-98cc0a4c03fb.png)
 
-These factors are probably why the market is forcasing lower oil prices. The oil volatility skew above shows for several months into the future the market is pricing in lower oil prices.
+These factors are probably why the market is forcasing lower oil prices. The oil volatility skew above shows that the market is willing to pay to protect the downside from risks as the "smile" appears to be more of a smirk.
 
 ![image](https://user-images.githubusercontent.com/66137235/233895273-caa31ea0-20b8-46d4-9369-75901cbf6e35.png)
 
-Even oil is starting to flirt with contango as future prices are expected to be as high as current prices are now. This being said, the $70 to $85 range is still fantastics for the industry and returns are expected to be above the market average if prices remain in this range.
+Even oil is starting to flirt with contango as future prices are expected to be as high as current prices are now. This being said, the $70 to $85 range is still fantastic for the industry and returns are expected to be above the market average if prices remain in this range.
 
 ![image](https://user-images.githubusercontent.com/66137235/233895472-327be1aa-138e-488a-9cd4-e56aa5f55110.png)
 
 That being said, the market is expecing crude prices to steadly fall in the future and this is likely to be because electric vehicles will reduce consumption.
 
+My prediction for the market would be that oil remains above $60 and will likely remain between $80 and $90 during the summer if the economy is struggling. Consumers are not willing to pay higher gasoline prices when they cannot afford to own their vehicles. This will cap higher prices even if the economy does avoid a major recession.
 
 
 ### Natural Gas Prices
+
+![image](https://user-images.githubusercontent.com/66137235/233897107-ce6cb073-cb9f-49cc-9567-d25c1492e18a.png)
 
 Natural gas appears to be facing headwinds as a warmer winter dashed producers expectations for a catastrophic winter. Natural gas storage usually drops in the summer as demand is low and rises in the winter as more gas is used for heating. This year, natural gas storage is near the upper boudn of the dip for the 5 year average. Producers were expecting prices to remain at record levels in Europe and Japan over the winter but have fallen to around $15/MMbtu due to warmer prices. 
 
 Henry Hub prices are already in contango and it is likely to get worse over the summer. If the winter is relatively normal in 2023 prices will likely rise for Henry Hub, the Dutch TTF, and the JKM. Some of the mitigating factors in the winter of 2022 were numerous take or pay contracts that were diverted from China to Japan and Europe which helped bouy storage and clamp down on prices. China has emerged from Covid and will likely consume the natural gas that was diverted which will likely push up prices over the winter.
 
-Natural gas prices will likely remain in a $3 to $5 range for the foreseable future as demand will tick up and export capacity will reduce the seasonality of prices. China is planning to add 500 coal powerplants (CO2 emissions will likely match the United State's total current output today) in the next few years. Also, Russia will get eventally get its natural gas to market in one way or another. This could be through pipelines across the Gobi and Taklamakan deserts to link up with Central Asian natural gas infrastructure that leads to China or pipelines that cross DongBei that go to Beijing. This could either displace Central Asian natural gas that would go to Europe or excess natural gas could be piped to China's coast where import LNG terminals could be configured to be export LNG terminals which is similar to what happend in the US.  This is assuming that Europe does not import Russian natural gas through the Ukraine, Nord Stream 3 under the Baltic Sea, or through the Turkstream. 
+Natural gas prices will likely remain in a $3 to $5 range for the foreseable future as demand will tick up and export capacity will reduce the seasonality of prices. China is planning to add 500 coal powerplants ( the CO2 emissions will likely match the United State's total current output today) in the next few years. Also, Russia will get eventally get its natural gas to market in one way or another. This could be through pipelines across the Gobi and Taklamakan deserts to link up with Central Asian natural gas infrastructure that leads to China or pipelines that cross DongBei that end up in Beijing. This could either displace Central Asian natural gas that could go to Europe or excess Russian natural gas could be piped to China's coast. China's import LNG terminals could be configured to become export LNG terminals similar to what happend in the US when the country first started exporint LNG. This is assuming that Europe does not import Russian natural gas through the Ukraine, Russia either develops its own LNG export terminals (which would require it to get technology from Europe, the US or China) or build Nord Stream 3 under the Baltic Sea, and there is always the Turkstream pipeline into southern Europe. 
 
 Either way, Russia will likely get its natural gas to market and they will not be the only one. Qatar will reach 126 metric tons of LNG capacity by 2027 which will flood the market and add to downward price of natural gas. While both Russia and Qatar will likely increase export capacity, American natural gas producers will take this competition as a challenge. They are already gearing up to add export capacity and will likely continue to vie for the title of the largest LNG exporter. 
 
@@ -75,7 +78,7 @@ None of this means that the world economy will grind to a halt but a clearer pic
 
 
 
-
+Politics-congress reducing deficit
 
 
 
