@@ -2,12 +2,23 @@
 
 ### Oil Prices
 
+![image](https://user-images.githubusercontent.com/66137235/233898143-a313e99c-30b3-42bb-b897-614d06a27a87.png)
+
 
 The oil and gas industry has recovered from nearly a decade of turmoil. However, analysts predict that the recovery will be uneven across the industry in the coming years. Frac spreads have increased since 2020 but have stabilized in recent months. The rig count has also stabilized, with the Permian Basin seeing the most drilling and accounts for almost half of the activity in the US. Wells that were drilled but left uncompleted (DUCs) for a time when energy prices would be higher acts as a kind of underground storage. These have reached multi-year lows due to higher energy prices and low investment by producers. It's uncertain if DUC inventory will rebound if energy prices remain low as producers need to increase activity just to maintain production and the rig count is rising but at a slower pace than many recoveries. 
 
+![image](https://user-images.githubusercontent.com/66137235/233898266-10d4a504-3bc3-41c7-92c2-906fc5c791b9.png)
+
+
 Crude storage has risen by less than 50 million barrels, which is unusual as crude builds up by nearly 100 million barrels in most years. Over the short term, oil prices look promising as storage is low, and OPEC has indicated that it's not defending market share through its surprise 1 MMbpd cut. Just the fact that OPEC cut production is a long-term bearish signal. Why would the organization cut production if the market is balanced? They could be trying to push prices into the stratosphere or they could be worried about consumption. Also, the way the organization cut production is questionable. Usually OPEC plans a meeting to discuss future production and then plans a cut but this time, a few producers met in secrete and planned a cut over a period of just a few days. 
 
-The 50 million barrel build-up in crude storage will be worked off during the summer, and the SPR won't help consumers as it's already at multi-year lows. Gasoline storage is low for this time of year, and distillate storage is close to recent record lows for this time of year.
+![image](https://user-images.githubusercontent.com/66137235/233898368-07bb9afc-28db-4005-ba95-70e6222b9b90.png)
+
+The 50 million barrel build-up in crude storage will be worked off during the summer, and the SPR won't help consumers as it's already at multi-year lows. 
+
+![image](https://user-images.githubusercontent.com/66137235/233898486-876d693d-3812-407a-88a2-1c72149916b2.png)
+
+Gasoline storage is low for this time of year, and distillate storage is close to recent record lows for this time of year.
 OPEC+ seems to be in control as they can manipulate crude prices while the West imports Russian barrels through various "blends" or indirectly through Middle Eastern producers that consume Russian crude which frees up Middle East producers to ship their crude to America or Europe.
 Russia claims that it has found a home for all of its crude barrels in Africa, India, and China, but it means that Russia is now competing with Iran and Venezuela for market share in these regions. This will likely cause a small amount of friction but is unlikely to rankle relations between these countries. This will cause some economic pain which could lead to some destabilization in their respective regions which could affect crude prices in the future.
 
@@ -65,21 +76,27 @@ And for the market's expectations for Henry Hub prices is high as more export ca
 
 
 ### Headwinds for the Economy
-Despite the promising crude fundamentals, the global economy appears fragile. The US has been signaling a recession for nearly a year as the Yield Curve has been negative since the Fed raised interest rates. The money supply has been slowly decreasing from recent highs which means that liquidity is finally starting to dry up which will lead to lower interest rates. This could allow the Fed cover for lowering interest rates now that inflation is set to decline but this will be likely be too late for most banks as they are struggling with deposits which will lead to more pressure on the economy.
 
-The difference between a taper tantrum and a recession seems to be a lack of confidence in the industry. The failures of the SVB and a few regional banks have either caused a lack of confidence or has just exposed it to the general public. Tech companies have laid off employees, and even large banks have seen a decline in their customer’s deposits. Not only are banks having to fight for deposits by paying higher interest rates and borrowing money from the Fed Window for a higher rate, they are also having to deal with potential defaults. Some banks have exposure to the housing market directly through loans but most have invested in MBS which could be tough with declining home prices. They are also exposed to auto loans and as the market cools this could cause a melt down.
+![image](https://user-images.githubusercontent.com/66137235/233899624-8e286174-d62f-4ed1-9d1e-738b28bf0e08.png)
+
+Despite the promising crude fundamentals, the global economy appears fragile. The US has been signaling a recession for nearly a year as the Yield Curve has been negative since the Fed raised interest rates. 
+
+![image](https://user-images.githubusercontent.com/66137235/233899679-dba7aefe-1fcb-4b11-8a7c-10213937660f.png)
+
+
+The money supply has been slowly decreasing from recent highs which means that liquidity is finally starting to dry up which will lead to lower interest rates. This could allow the Fed cover for lowering interest rates now that inflation is set to decline but this will be likely be too late for most banks as they are struggling with deposits which will lead to more pressure on the economy.
+
+The difference between a taper tantrum and a recession seems to be a lack of confidence in the industry. The failures of the SVB and a few regional banks have either caused a lack of confidence or has just exposed it to the general public. The market can see this in full force as demand for 1 month treasuries has skyrocketed. Also, Tech companies have laid off employees and even large banks are struggling as they have seen a decline in their customer’s deposits. Not only are banks having to fight for deposits by paying higher interest rates and borrowing money from the Fed Window for a higher rate, they are also having to deal with potential defaults. Some banks have exposure to the housing market directly through loans but most have invested in MBS which could be tough with declining home prices. They are also exposed to auto loans and as the market cools this could cause a melt down.
 
 The US is not the only one struggling with its economy. Europe has been struggling with higher commodity prices, supply chain issues, and blackouts that have disrupted its economy and has collapsed its economy. Europe's economy may have a modest recovery, but if the US falls into a recession, Europe could have a double dip recession or slower growth for years. 
 
 China has also faced challenges due to Covid lockdowns and President Pooh’s lifetime status as leader of China. China has controlled inflation by crippling its real estate, tech, and education sectors. The country likely experience some deflation although its officially barely eked out some inflation. Its manufacturing sector may recover slightly as American companies diversify their production to prepare for the possibility of mainland China trying to take the Republic of China. China has backed Russia at all costs in a losing war which will divert resources away from growth and a day does not go by without 3 different politicians from all political spectrums criticizing China in some way. Not only is China facing these headwinds, but an economy never does also well under a dictator and President Xi appears to be more focused on taking on the West and less on growth like previous presidents. 
 
+And if the world needed another issue, the US government will likely reduce spending through budget talks. The Republicans will likely get some kind of spending reduction which will reduce liquidity in the market and reduce the likelyhood of a bailout.
+
 None of this means that the world economy will grind to a halt but a clearer picture of where we are headed will surface after Q2 earnings. The SVB collapse and the turmoil will take their toll on the economy and the effects will be evident in Q2 earnings in July. This will allow investors and companies to determine what these effects will be on American companies and they can determine where to invest their money in the future.
 
 
-
-
-
-Politics-congress reducing deficit
 
 
 
