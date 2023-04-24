@@ -37,7 +37,7 @@ Henry Hub prices are already in contango and it is likely to get worse over the 
 
 Natural gas prices will likely remain in a $3 to $5 range for the foreseable future as demand will tick up and export capacity will reduce the seasonality of prices. China is planning to add 500 coal powerplants ( the CO2 emissions will likely match the United State's total current output today) in the next few years. Also, Russia will get eventally get its natural gas to market in one way or another. This could be through pipelines across the Gobi and Taklamakan deserts to link up with Central Asian natural gas infrastructure that leads to China or pipelines that cross DongBei that end up in Beijing. This could either displace Central Asian natural gas that could go to Europe or excess Russian natural gas could be piped to China's coast. China's import LNG terminals could be configured to become export LNG terminals similar to what happend in the US when the country first started exporint LNG. This is assuming that Europe does not import Russian natural gas through the Ukraine, Russia either develops its own LNG export terminals (which would require it to get technology from Europe, the US or China) or build Nord Stream 3 under the Baltic Sea, and there is always the Turkstream pipeline into southern Europe. 
 
-Either way, Russia will likely get its natural gas to market and they will not be the only one. Qatar will reach 126 metric tons of LNG capacity by 2027 which will flood the market and add to downward price of natural gas. While both Russia and Qatar will likely increase export capacity, American natural gas producers will take this competition as a challenge. They are already gearing up to add export capacity and will likely continue to vie for the title of the largest LNG exporter. 
+Either way, Russia will likely get its natural gas to market and they will not be the only one. Qatar will reach 126 metric tons of LNG capacity by 2027 which will flood the market and add to downward price of natural gas. While both Russia and Qatar will likely increase export capacity, American natural gas producers will take this as a challenge. They are already gearing up to add export capacity and will likely continue to vie for the title of the largest LNG exporter. 
 
 ![image](https://user-images.githubusercontent.com/66137235/233895601-d385e0f7-49d3-4571-b7e4-d589f2bb5b42.png)
 
@@ -45,12 +45,13 @@ This is likely what is pushing the market to forcast turbulance in the natural g
 
 ![image](https://user-images.githubusercontent.com/66137235/233895748-f6522f6f-a743-45ea-931c-77cc7f54f26c.png)
 
-This is why the market is already in contango where future prices are expected to be higher than current prices.
+Future prices are expected to rise but the commodity is so seasonal that prices always rise in the summer. If the world experiences another warm winter it could cause the market to expect lower prices as the Ukranian conflict will likely be resolved in the next year.
 
 
 ![image](https://user-images.githubusercontent.com/66137235/233895839-84729075-317f-46a3-a544-fed3b181a95e.png)
 
 Dutch TTF prices are already coming down are expected to be around $15 MMbtu or around 40 Euros for the metric equivalent.
+
 
 ![image](https://user-images.githubusercontent.com/66137235/233895973-d1efdffa-4f0e-4014-b114-c2c5893d4433.png)
 
