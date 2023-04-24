@@ -12,6 +12,18 @@ OPEC+ seems to be in control as they can manipulate crude prices while the West 
 Russia claims that it has found a home for all of its crude barrels in Africa, India, and China, but it means that Russia is now competing with Iran and Venezuela for market share in these regions. This will likely cause a small amount of friction but is unlikely to rankle relations between these countries. This will cause some economic pain which could lead to some destabilization in their respective regions which could affect crude prices in the future.
 
 
+![image](https://user-images.githubusercontent.com/66137235/233895205-091eb544-ecb1-48c5-abaa-98cc0a4c03fb.png)
+
+These factors are probably why the market is forcasing lower oil prices. The oil volatility skew above shows for several months into the future the market is pricing in lower oil prices.
+
+![image](https://user-images.githubusercontent.com/66137235/233895273-caa31ea0-20b8-46d4-9369-75901cbf6e35.png)
+
+Even oil is starting to flirt with contango as future prices are expected to be as high as current prices are now. This being said, the $70 to $85 range is still fantastics for the industry and returns are expected to be above the market average if prices remain in this range.
+
+![image](https://user-images.githubusercontent.com/66137235/233895472-327be1aa-138e-488a-9cd4-e56aa5f55110.png)
+
+That being said, the market is expecing crude prices to steadly fall in the future and this is likely to be because electric vehicles will reduce consumption.
+
 
 
 ### Natural Gas Prices
@@ -24,15 +36,39 @@ Natural gas prices will likely remain in a $3 to $5 range for the foreseable fut
 
 Either way, Russia will likely get its natural gas to market and they will not be the only one. Qatar will reach 126 metric tons of LNG capacity by 2027 which will flood the market and add to downward price of natural gas. While both Russia and Qatar will likely increase export capacity, American natural gas producers will take this competition as a challenge. They are already gearing up to add export capacity and will likely continue to vie for the title of the largest LNG exporter. 
 
+![image](https://user-images.githubusercontent.com/66137235/233895601-d385e0f7-49d3-4571-b7e4-d589f2bb5b42.png)
+
+This is likely what is pushing the market to forcast turbulance in the natural gas market. The volatility skew above is for natural gas prices and indicates that the market is willing to overpay to protect it against downside risks even though prices remain just above $2.
+
+![image](https://user-images.githubusercontent.com/66137235/233895748-f6522f6f-a743-45ea-931c-77cc7f54f26c.png)
+
+This is why the market is already in contango where future prices are expected to be higher than current prices.
+
+
+![image](https://user-images.githubusercontent.com/66137235/233895839-84729075-317f-46a3-a544-fed3b181a95e.png)
+
+Dutch TTF prices are already coming down are expected to be around $15 MMbtu or around 40 Euros for the metric equivalent.
+
+![image](https://user-images.githubusercontent.com/66137235/233895973-d1efdffa-4f0e-4014-b114-c2c5893d4433.png)
+
+And the JKM price shows higher prices over the winter which usually happens.
+
+![image](https://user-images.githubusercontent.com/66137235/233896071-fbabaca7-4dfc-4544-bf41-011c0f12a328.png)
+
+And for the market's expectations for Henry Hub prices is high as more export capacity will cause domestic prices to rise and normalize with international prices.
 
 
 
 
 ### Headwinds for the Economy
 Despite the promising crude fundamentals, the global economy appears fragile. The US has been signaling a recession for nearly a year as the Yield Curve has been negative since the Fed raised interest rates. The money supply has been slowly decreasing from recent highs which means that liquidity is finally starting to dry up which will lead to lower interest rates. This could allow the Fed cover for lowering interest rates now that inflation is set to decline but this will be likely be too late for most banks as they are struggling with deposits which will lead to more pressure on the economy.
+
 The difference between a taper tantrum and a recession seems to be a lack of confidence in the industry. The failures of the SVB and a few regional banks have either caused a lack of confidence or has just exposed it to the general public. Tech companies have laid off employees, and even large banks have seen a decline in their customer’s deposits. Not only are banks having to fight for deposits by paying higher interest rates and borrowing money from the Fed Window for a higher rate, they are also having to deal with potential defaults. Some banks have exposure to the housing market directly through loans but most have invested in MBS which could be tough with declining home prices. They are also exposed to auto loans and as the market cools this could cause a melt down.
+
 The US is not the only one struggling with its economy. Europe has been struggling with higher commodity prices, supply chain issues, and blackouts that have disrupted its economy and has collapsed its economy. Europe's economy may have a modest recovery, but if the US falls into a recession, Europe could have a double dip recession or slower growth for years. 
+
 China has also faced challenges due to Covid lockdowns and President Pooh’s lifetime status as leader of China. China has controlled inflation by crippling its real estate, tech, and education sectors. The country likely experience some deflation although its officially barely eked out some inflation. Its manufacturing sector may recover slightly as American companies diversify their production to prepare for the possibility of mainland China trying to take the Republic of China. China has backed Russia at all costs in a losing war which will divert resources away from growth and a day does not go by without 3 different politicians from all political spectrums criticizing China in some way. Not only is China facing these headwinds, but an economy never does also well under a dictator and President Xi appears to be more focused on taking on the West and less on growth like previous presidents. 
+
 None of this means that the world economy will grind to a halt but a clearer picture of where we are headed will surface after Q2 earnings. The SVB collapse and the turmoil will take their toll on the economy and the effects will be evident in Q2 earnings in July. This will allow investors and companies to determine what these effects will be on American companies and they can determine where to invest their money in the future.
 
 
